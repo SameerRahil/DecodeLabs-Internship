@@ -11,17 +11,18 @@ Artificial Intelligence
 | Project | Title | Status |
 |---|---|---|
 | Project 1 | Rule-Based AI Chatbot | Completed |
-
-## Project 1: Rule-Based AI Chatbot
-
-The first project is a simple rule-based chatbot built using Python. It uses control flow, dictionary-based response lookup, input sanitization, fallback handling, and a continuous loop to simulate basic chatbot interaction.
+| Project 2 | Data Classification Using AI | Completed |
 
 ## Repository Structure
 
 ```text
 DecodeLabs-Internship
 ├── README.md
-└── artificial-intelligence
-    └── project-1-rule-based-chatbot
-        ├── project1_chatbot.py
-        └── README.md
+└── Artificial-Intelligence
+    ├── README.md
+    ├── Project-1-Rule-Based-Chatbot
+    │   ├── README.md
+    │   └── project1_chatbot.py
+    └── Project-2-Data-Classification
+        ├── README.md
+        └── project2_data_classification.py
