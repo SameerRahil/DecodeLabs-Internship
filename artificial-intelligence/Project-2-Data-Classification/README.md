@@ -113,9 +113,3 @@ Predicted class: **setosa**
 - F1 score
 - Model evaluation
 
-## How to Run
-
-Install the required libraries:
-
-```bash
-pip install scikit-learn numpy
