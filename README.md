@@ -12,6 +12,7 @@ Artificial Intelligence
 |---|---|---|
 | Project 1 | Rule-Based AI Chatbot | Completed |
 | Project 2 | Data Classification Using AI | Completed |
+| Project 3 | Tech Stack Recommender | Completed |
 
 ## Repository Structure
 
@@ -21,8 +22,5 @@ DecodeLabs-Internship
 └── Artificial-Intelligence
     ├── README.md
     ├── Project-1-Rule-Based-Chatbot
-    │   ├── README.md
-    │   └── project1_chatbot.py
-    └── Project-2-Data-Classification
-        ├── README.md
-        └── project2_data_classification.py
+    ├── Project-2-Data-Classification
+    └── Project-3-Tech-Stack-Recommender

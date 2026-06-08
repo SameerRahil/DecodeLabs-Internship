@@ -8,6 +8,7 @@ This folder contains the Artificial Intelligence projects completed during my De
 |---|---|---|
 | Project 1 | Rule-Based AI Chatbot | Completed |
 | Project 2 | Data Classification Using AI | Completed |
+| Project 3 | Tech Stack Recommender | Completed |
 
 ## Structure
 
@@ -15,4 +16,5 @@ This folder contains the Artificial Intelligence projects completed during my De
 Artificial-Intelligence
 ├── README.md
 ├── Project-1-Rule-Based-Chatbot
-└── Project-2-Data-Classification
+├── Project-2-Data-Classification
+└── Project-3-Tech-Stack-Recommender
